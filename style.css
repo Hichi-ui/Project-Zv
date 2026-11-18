@@ -1,0 +1,9 @@
+.imagem-gameplay {
+    width: 100%;
+    max-width: 500px;
+    height: 280px;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+    border-radius: 8px;
+}
